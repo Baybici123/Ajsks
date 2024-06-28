@@ -1,0 +1,2 @@
+# Ajsks
+Tik.json
